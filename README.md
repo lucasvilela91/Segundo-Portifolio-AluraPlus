@@ -1,5 +1,5 @@
 
-# Portfólio Olá, Bem vindo ao meu segundo projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Video apresentação:
 
